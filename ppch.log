@@ -1,0 +1,1478 @@
+
+Gurobi 9.1.0 (linux64, C++) logging started Fri Dec  4 17:11:35 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Model fingerprint: 0xbaaa9ffc
+Variable types: 0 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Fri Dec  4 17:12:04 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Model fingerprint: 0xbaaa9ffc
+Variable types: 0 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Fri Dec  4 17:35:04 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Model fingerprint: 0xf05e2d67
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   3.000000e+00   0.000000e+00      0s
+       2   -1.1200000e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds
+Optimal objective -1.120000000e+01
+
+Gurobi 9.1.0 (linux64, C++) logging started Fri Dec  4 17:50:19 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Model fingerprint: 0xf05e2d67
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+00]
+  Objective range  [4e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+00, 7e+00]
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   3.000000e+00   0.000000e+00      0s
+       2   -1.1200000e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds
+Optimal objective -1.120000000e+01
+
+Gurobi 9.1.0 (linux64, C++) logging started Fri Dec  4 18:07:30 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+
+Gurobi 9.1.0 (linux64, C++) logging started Fri Dec  4 18:10:53 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+
+Gurobi 9.1.0 (linux64, C++) logging started Fri Dec  4 18:25:12 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+
+Gurobi 9.1.0 (linux64, C++) logging started Mon Dec  7 14:31:11 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+
+Gurobi 9.1.0 (linux64, C++) logging started Mon Dec  7 14:32:24 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+
+Gurobi 9.1.0 (linux64, C++) logging started Mon Dec  7 14:42:10 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+
+Gurobi 9.1.0 (linux64, C++) logging started Mon Dec  7 14:43:40 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 0 rows, 2005 columns and 0 nonzeros
+Model fingerprint: 0xf292b208
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Found heuristic solution: objective 0.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Mon Dec  7 14:44:15 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 0 rows, 2005 columns and 0 nonzeros
+Model fingerprint: 0xf292b208
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Found heuristic solution: objective 0.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Mon Dec  7 15:48:01 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 8000 rows, 2005 columns and 8013920 nonzeros
+Model fingerprint: 0x3d0fd3b0
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 3 rows and 5 columns
+Presolve time: 0.53s
+
+Explored 0 nodes (0 simplex iterations) in 1.53 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Mon Dec  7 15:51:39 2020
+
+Academic license - for non-commercial use only - expires 2021-02-01
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 8000 rows, 2005 columns and 8013920 nonzeros
+Model fingerprint: 0xeaf16193
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 3 rows and 5 columns
+Presolve time: 0.51s
+
+Explored 0 nodes (0 simplex iterations) in 1.50 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Tue Dec  8 19:59:53 2020
+
+Academic license - for non-commercial use only - expires 2021-02-06
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 8000 rows, 2005 columns and 8013920 nonzeros
+Model fingerprint: 0xeaf16193
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 3 rows and 5 columns
+Presolve time: 0.77s
+
+Explored 0 nodes (0 simplex iterations) in 1.90 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Tue Dec  8 20:04:17 2020
+
+Academic license - for non-commercial use only - expires 2021-02-06
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 8000 rows, 2005 columns and 8013920 nonzeros
+Model fingerprint: 0xeaf16193
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 3 rows and 5 columns
+Presolve time: 0.56s
+
+Explored 0 nodes (0 simplex iterations) in 1.64 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Tue Dec  8 20:04:33 2020
+
+Academic license - for non-commercial use only - expires 2021-02-06
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 8000 rows, 2005 columns and 8013920 nonzeros
+Model fingerprint: 0xeaf16193
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 3 rows and 5 columns
+Presolve time: 0.58s
+
+Explored 0 nodes (0 simplex iterations) in 1.77 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 10:52:21 2020
+
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 10:56:37 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 8000 rows, 2005 columns and 8013920 nonzeros
+Model fingerprint: 0xdae4df79
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 2 rows and 0 columns
+Presolve time: 0.69s
+
+Explored 0 nodes (0 simplex iterations) in 1.88 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 11:02:49 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 8000 rows, 2005 columns and 8013920 nonzeros
+Model fingerprint: 0xdae4df79
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 2 rows and 0 columns
+Presolve time: 0.95s
+
+Explored 0 nodes (0 simplex iterations) in 2.52 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 11:29:34 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 8000 rows, 2005 columns and 8013920 nonzeros
+Model fingerprint: 0xdae4df79
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 2 rows and 0 columns
+Presolve time: 0.64s
+
+Explored 0 nodes (0 simplex iterations) in 1.80 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 11:46:03 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 2000 rows, 2005 columns and 201000 nonzeros
+Model fingerprint: 0x86f3f15c
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 2e+00]
+Presolve removed 0 rows and 5 columns
+Presolve time: 0.02s
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 11:47:08 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 8000 rows, 2005 columns and 6213920 nonzeros
+Model fingerprint: 0xf1147285
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 3 rows and 4 columns
+Presolve time: 0.61s
+
+Explored 0 nodes (0 simplex iterations) in 1.40 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 11:58:25 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 8000 rows, 2005 columns and 6213920 nonzeros
+Model fingerprint: 0xf1147285
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 3 rows and 4 columns
+Presolve time: 0.54s
+
+Explored 0 nodes (0 simplex iterations) in 1.41 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 12:10:18 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 0 rows, 2005 columns and 0 nonzeros
+Model fingerprint: 0xc3736985
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Found heuristic solution: objective 225.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 225 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.250000000000e+02, best bound 2.250000000000e+02, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 12:11:00 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 0 rows, 2005 columns and 0 nonzeros
+Model fingerprint: 0xc3736985
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Found heuristic solution: objective 225.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 225 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.250000000000e+02, best bound 2.250000000000e+02, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 12:12:10 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 0 rows, 2005 columns and 0 nonzeros
+Model fingerprint: 0xc3736985
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Found heuristic solution: objective 225.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 225 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.250000000000e+02, best bound 2.250000000000e+02, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 12:17:31 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 0 rows, 2005 columns and 0 nonzeros
+Model fingerprint: 0xc3736985
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Found heuristic solution: objective 225.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 225 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.250000000000e+02, best bound 2.250000000000e+02, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 12:17:46 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 0 rows, 2005 columns and 0 nonzeros
+Model fingerprint: 0xc3736985
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Found heuristic solution: objective 225.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 225 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.250000000000e+02, best bound 2.250000000000e+02, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 12:23:47 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 0 rows, 2005 columns and 0 nonzeros
+Model fingerprint: 0xc3736985
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Found heuristic solution: objective 225.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 225 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.250000000000e+02, best bound 2.250000000000e+02, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 12:28:05 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 8000 rows, 2005 columns and 6213920 nonzeros
+Model fingerprint: 0xf1147285
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 3 rows and 4 columns
+Presolve time: 0.67s
+
+Explored 0 nodes (0 simplex iterations) in 1.58 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: linear constraint 0 and linear constraint 1 have the same name "c1"
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 13:32:20 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 8000 rows, 2005 columns and 6014920 nonzeros
+Model fingerprint: 0xbb4a25bc
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 3 rows and 4 columns
+Presolve time: 0.54s
+
+Explored 0 nodes (0 simplex iterations) in 1.33 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: linear constraint 0 and linear constraint 1 have the same name "c1"
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 13:34:05 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 6001 rows, 2005 columns and 6012921 nonzeros
+Model fingerprint: 0xfc21bd23
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 2165 rows and 1778 columns
+Presolve time: 1.70s
+
+Explored 0 nodes (0 simplex iterations) in 3.35 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: linear constraint 1 and linear constraint 2 have the same name "c2"
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 13:35:29 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 2000 rows, 2005 columns and 2000 nonzeros
+Model fingerprint: 0x3d6cb110
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 2e+00]
+Presolve removed 0 rows and 2005 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: linear constraint 0 and linear constraint 1 have the same name "c1"
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 13:37:22 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 1 rows, 2005 columns and 1 nonzeros
+Model fingerprint: 0x3cd306b9
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 8e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 2e+00]
+Presolve removed 0 rows and 2005 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 13:41:35 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 1 rows, 2005 columns and 1 nonzeros
+Model fingerprint: 0x2f6151e7
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 2e+00]
+Presolve removed 0 rows and 2005 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 13:43:06 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 2000 rows, 2005 columns and 201000 nonzeros
+Model fingerprint: 0x0db9794c
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 2e+00]
+Presolve removed 0 rows and 5 columns
+Presolve time: 0.01s
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: linear constraint 0 and linear constraint 1 have the same name "c1_0"
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 13:48:39 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 10 rows, 2005 columns and 2000 nonzeros
+Model fingerprint: 0x55aa88f7
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 2e+00]
+Found heuristic solution: objective 3.0000000
+Presolve removed 10 rows and 2005 columns
+Presolve time: 0.06s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.06 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 14 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.400000000000e+01, best bound 1.400000000000e+01, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 13:57:56 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 80 rows, 16005 columns and 16000 nonzeros
+Model fingerprint: 0x9654a7d0
+Variable types: 0 continuous, 16005 integer (16005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 4e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 2e+00]
+Found heuristic solution: objective 12.0000000
+Presolve removed 80 rows and 16005 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 88 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.800000000000e+01, best bound 8.800000000000e+01, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 14:08:28 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 2010 rows, 2005 columns and 2003000 nonzeros
+Model fingerprint: 0xeed6375b
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 1 rows and 7 columns
+Presolve time: 0.67s
+
+Explored 0 nodes (0 simplex iterations) in 1.06 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: linear constraint 10 and linear constraint 11 have the same name "c2"
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 14:13:03 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 20 rows, 2005 columns and 4000 nonzeros
+Model fingerprint: 0x7a1513bc
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 0 rows and 1995 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 14:16:25 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 11 rows, 2005 columns and 4000 nonzeros
+Model fingerprint: 0xef6121e0
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 0 rows and 1995 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 14:20:33 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 20 rows, 2005 columns and 4000 nonzeros
+Model fingerprint: 0x7a1513bc
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 0 rows and 1995 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 14:33:13 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 20 rows, 2005 columns and 4000 nonzeros
+Model fingerprint: 0xe34ef982
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 2e+00]
+Found heuristic solution: objective 3.0000000
+Presolve removed 20 rows and 2005 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 14 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.400000000000e+01, best bound 1.400000000000e+01, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 14:43:39 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 60 rows, 2005 columns and 4000 nonzeros
+Model fingerprint: 0xbdd3301a
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 0 rows and 1955 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 14:44:14 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 60 rows, 2005 columns and 4000 nonzeros
+Model fingerprint: 0xbdd3301a
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 0 rows and 1955 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 14:47:54 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 20 rows, 2005 columns and 4000 nonzeros
+Model fingerprint: 0x7a1513bc
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 0 rows and 1995 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 14:50:40 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 2010 rows, 2005 columns and 2003000 nonzeros
+Model fingerprint: 0xeed6375b
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Presolve removed 1 rows and 7 columns
+Presolve time: 1.04s
+
+Explored 0 nodes (0 simplex iterations) in 1.47 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+No other solutions better than -1e+100
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 14:52:24 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 60 rows, 2005 columns and 4000 nonzeros
+Model fingerprint: 0xf7039ba4
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 2.0000000
+Presolve removed 60 rows and 2005 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 14 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.400000000000e+01, best bound 1.400000000000e+01, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 15:08:49 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 210 rows, 2005 columns and 4000 nonzeros
+Model fingerprint: 0x2126ff90
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 4.0000000
+Presolve removed 0 rows and 5 columns
+Presolve time: 0.03s
+Presolved: 210 rows, 2000 columns, 4000 nonzeros
+Variable types: 0 continuous, 2000 integer (2000 binary)
+
+Root relaxation: objective 1.400000e+01, 105 iterations, 0.19 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      14.0000000   14.00000  0.00%     -    0s
+
+Explored 0 nodes (105 simplex iterations) in 0.33 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 14 4 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.400000000000e+01, best bound 1.400000000000e+01, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 15:24:26 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 260 rows, 2005 columns and 6000 nonzeros
+Model fingerprint: 0xf3a8aebf
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 4.0000000
+Presolve removed 1 rows and 45 columns
+Presolve time: 0.01s
+Presolved: 259 rows, 1960 columns, 5880 nonzeros
+Variable types: 0 continuous, 1960 integer (1960 binary)
+
+Root relaxation: objective 1.400000e+01, 127 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      14.0000000   14.00000  0.00%     -    0s
+
+Explored 0 nodes (127 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 14 4 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.400000000000e+01, best bound 1.400000000000e+01, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 15:26:32 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 260 rows, 2005 columns and 6000 nonzeros
+Model fingerprint: 0xf3a8aebf
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 4.0000000
+Presolve removed 1 rows and 45 columns
+Presolve time: 0.01s
+Presolved: 259 rows, 1960 columns, 5880 nonzeros
+Variable types: 0 continuous, 1960 integer (1960 binary)
+
+Root relaxation: objective 1.400000e+01, 127 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      14.0000000   14.00000  0.00%     -    0s
+
+Explored 0 nodes (127 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 14 4 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.400000000000e+01, best bound 1.400000000000e+01, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 15:27:33 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 680 rows, 16005 columns and 48000 nonzeros
+Model fingerprint: 0xbc5af2cc
+Variable types: 0 continuous, 16005 integer (16005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 4e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 9.0000000
+Presolve removed 24 rows and 965 columns
+Presolve time: 0.10s
+Presolved: 656 rows, 15040 columns, 45120 nonzeros
+Variable types: 0 continuous, 15040 integer (15040 binary)
+
+Root relaxation: objective 8.800000e+01, 809 iterations, 0.07 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      88.0000000   88.00000  0.00%     -    0s
+
+Explored 0 nodes (809 simplex iterations) in 0.19 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 88 9 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.800000000000e+01, best bound 8.800000000000e+01, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 15:34:38 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 2260 rows, 2005 columns and 2016920 nonzeros
+Model fingerprint: 0x38db5612
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective -46.0000000
+Presolve removed 69 rows and 39 columns
+Presolve time: 2.94s
+Presolved: 2191 rows, 1966 columns, 198398 nonzeros
+Variable types: 0 continuous, 1966 integer (1965 binary)
+
+Root relaxation: objective -3.600000e+01, 166 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0     -36.0000000  -36.00000  0.00%     -    3s
+
+Explored 0 nodes (166 simplex iterations) in 3.34 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -36 -46 
+No other solutions better than -36
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.600000000000e+01, best bound -3.600000000000e+01, gap 0.0000%
+Warning: linear constraint 260 and linear constraint 261 have the same name "c4"
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 15:35:31 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 260 rows, 2005 columns and 6000 nonzeros
+Model fingerprint: 0xf3a8aebf
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 4.0000000
+Presolve removed 1 rows and 45 columns
+Presolve time: 0.02s
+Presolved: 259 rows, 1960 columns, 5880 nonzeros
+Variable types: 0 continuous, 1960 integer (1960 binary)
+
+Root relaxation: objective 1.400000e+01, 127 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      14.0000000   14.00000  0.00%     -    0s
+
+Explored 0 nodes (127 simplex iterations) in 0.04 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 14 4 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.400000000000e+01, best bound 1.400000000000e+01, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 15:40:56 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 2260 rows, 2005 columns and 2016920 nonzeros
+Model fingerprint: 0xe4af3cfa
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+02]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective -46.0000000
+Presolve removed 69 rows and 39 columns
+Presolve time: 2.92s
+Presolved: 2191 rows, 1966 columns, 197482 nonzeros
+Variable types: 0 continuous, 1966 integer (1965 binary)
+
+Root relaxation: objective -3.600000e+01, 176 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0     -36.0000000  -36.00000  0.00%     -    3s
+
+Explored 0 nodes (176 simplex iterations) in 3.32 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -36 -46 
+No other solutions better than -36
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.600000000000e+01, best bound -3.600000000000e+01, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 15:46:07 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 261 rows, 2005 columns and 8005 nonzeros
+Model fingerprint: 0x227f9715
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+02]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective -46.0000000
+Presolve removed 2 rows and 45 columns
+Presolve time: 0.02s
+Presolved: 259 rows, 1960 columns, 5880 nonzeros
+Variable types: 0 continuous, 1960 integer (1960 binary)
+
+Root relaxation: objective -3.600000e+01, 127 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0     -36.0000000  -36.00000  0.00%     -    0s
+
+Explored 0 nodes (127 simplex iterations) in 0.04 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -36 -46 
+No other solutions better than -36
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.600000000000e+01, best bound -3.600000000000e+01, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 15:49:54 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 261 rows, 2005 columns and 8005 nonzeros
+Model fingerprint: 0x227f9715
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+02]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective -46.0000000
+Presolve removed 2 rows and 45 columns
+Presolve time: 0.02s
+Presolved: 259 rows, 1960 columns, 5880 nonzeros
+Variable types: 0 continuous, 1960 integer (1960 binary)
+
+Root relaxation: objective -3.600000e+01, 127 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0     -36.0000000  -36.00000  0.00%     -    0s
+
+Explored 0 nodes (127 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -36 -46 
+No other solutions better than -36
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.600000000000e+01, best bound -3.600000000000e+01, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 15:51:41 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 1281 rows, 32010 columns and 128010 nonzeros
+Model fingerprint: 0x3dfa2d47
+Variable types: 0 continuous, 32010 integer (32010 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+03]
+  Objective range  [1e+00, 4e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective -389.0000000
+Presolve removed 42 rows and 1650 columns
+Presolve time: 0.44s
+Presolved: 1239 rows, 30360 columns, 91080 nonzeros
+Variable types: 0 continuous, 30360 integer (30360 binary)
+
+Root relaxation: objective -3.120000e+02, 1339 iterations, 0.17 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    -312.0000000 -312.00000  0.00%     -    0s
+
+Explored 0 nodes (1339 simplex iterations) in 0.67 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -312 -389 
+No other solutions better than -312
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.120000000000e+02, best bound -3.120000000000e+02, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 16:03:45 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 261 rows, 2005 columns and 8005 nonzeros
+Model fingerprint: 0x227f9715
+Variable types: 0 continuous, 2005 integer (2005 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+02]
+  Objective range  [1e+00, 5e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective -46.0000000
+Presolve removed 2 rows and 45 columns
+Presolve time: 0.03s
+Presolved: 259 rows, 1960 columns, 5880 nonzeros
+Variable types: 0 continuous, 1960 integer (1960 binary)
+
+Root relaxation: objective -3.600000e+01, 127 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0     -36.0000000  -36.00000  0.00%     -    0s
+
+Explored 0 nodes (127 simplex iterations) in 0.04 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -36 -46 
+No other solutions better than -36
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.600000000000e+01, best bound -3.600000000000e+01, gap 0.0000%
+
+Gurobi 9.1.0 (linux64, C++) logging started Wed Dec  9 16:24:39 2020
+
+Academic license - for non-commercial use only - expires 2021-02-07
+Gurobi Optimizer version 9.1.0 build v9.1.0rc0 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 1281 rows, 32010 columns and 128010 nonzeros
+Model fingerprint: 0x3dfa2d47
+Variable types: 0 continuous, 32010 integer (32010 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+03]
+  Objective range  [1e+00, 4e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective -389.0000000
+Presolve removed 42 rows and 1650 columns
+Presolve time: 0.33s
+Presolved: 1239 rows, 30360 columns, 91080 nonzeros
+Variable types: 0 continuous, 30360 integer (30360 binary)
+
+Root relaxation: objective -3.120000e+02, 1339 iterations, 0.21 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    -312.0000000 -312.00000  0.00%     -    0s
+
+Explored 0 nodes (1339 simplex iterations) in 0.62 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -312 -389 
+No other solutions better than -312
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.120000000000e+02, best bound -3.120000000000e+02, gap 0.0000%

@@ -1,7 +1,7 @@
 # disciplinas	 #dias 	 #salas 	 #horarios 
 10 		 5 	 5 		 8 
 
-# (j,k): 1 se disciplina j pode ser lecionada na sala k, 0 caso contrario 
+# C(j,k): 1 se disciplina j pode ser lecionada na sala k, 0 caso contrario 
 
 1  1  1  1  1  
 1  1  1  1  1  
@@ -15,7 +15,7 @@
 1  0  1  1  1  
 
 
-# (j,h): 1 se disciplina j tem preferencia pelo horário h, e 0 caso contrario 
+# P(j,h): 1 se disciplina j tem preferencia pelo horário h, e 0 caso contrario 
 
 0  0  1  0  0  0  0  0  
 1  0  0  0  0  0  0  0  
