@@ -78,9 +78,10 @@ tuple<int, int, int, int, vector<vector<int>>, vector<vector<int>>> middlewareTo
             {
                 allNumbers.push_back(tmpNumber);
             }
-            else if (!negativeNumber && (dataContent[i + 1] - '0') >= 0)
-            {
+            else if (!negativeNumber && ((dataContent[i + 1] - '0') >= 0))
+            {   
                 tmpNumber *= 10;
+                tmpNumber += (dataContent[i + 1] - '0');
                 allNumbers.push_back(tmpNumber);
 
                 i += 1;
@@ -154,4 +155,6 @@ void printFormated(int disciplinas, int dias, int salas, int horarios, vector<ve
         }
         cout << '\n';
     }
+
+    cout << "\n\n" << endl;
 }

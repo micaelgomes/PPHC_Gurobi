@@ -8,7 +8,7 @@ int main()
 {
 	int disciplinas, dias, salas, horarios;
 	vector<vector<int>> disp_salas, pref_horario;
-	string dataContent = readFromFile("data/80_5_10_8-1.dat");
+	string dataContent = readFromFile("data/40_5_5_8-1.dat");
 
 	if (dataContent != "err")
 	{
