@@ -12,8 +12,11 @@ int main()
 
 	if (dataContent != "err")
 	{
+		// get values from file .dat
 		tie(disciplinas, dias, salas, horarios, disp_salas, pref_horario) = middlewareToRemoveNoises(dataContent);
-		// printFormated(disciplinas, dias, salas, horarios, disp_salas, pref_horario);
+		
+		// this function print data like Matrix
+		printFormated(disciplinas, dias, salas, horarios, disp_salas, pref_horario);
 
 		try
 		{
@@ -25,11 +28,12 @@ int main()
 			// Create an empty model
 			GRBModel model = GRBModel(env);
 
-			// Create variables
+			// Create variable X_jtkh
 			GRBVar x[disciplinas][dias][salas][horarios];
+			// Create variable Y_k
 			GRBVar y[salas];
 
-			// Attr value to var[i]
+			// Attr value to vars
 			for (int j = 0; j < disciplinas; j++)
 			{
 				for (int t = 0; t < dias; t++)
@@ -59,7 +63,7 @@ int main()
 				fo_yk += y[k];
 			}
 
-			// get f.o. valu
+			// get sum value
 			for (int j = 0; j < disciplinas; j++)
 			{
 				for (int t = 0; t < dias; t++)
@@ -74,10 +78,10 @@ int main()
 				}
 			}
 
-			model.setObjective((fo - fo_yk), GRB_MAXIMIZE);
+			model.setObjective(fo - fo_yk, GRB_MAXIMIZE);
 			model.update();
 
-			// Constraint 1 : disciplina nos dias
+			// Constraint 1 
 			for (int j = 0; j < disciplinas; j++)
 			{
 				GRBLinExpr c1 = 0;
@@ -160,36 +164,65 @@ int main()
 			model.update();
 			model.optimize();
 
-			// check out
+			// check model
 			model.write("ppch_model.lp");
 
-			// Print var values
-			for (int j = 0; j < disciplinas; j++)
+			// Print result in Grid
+			bool empty = true;
+			for (int k = 0; k < salas; k++)
 			{
-				for (int t = 0; t < dias; t++)
+        cout << "\nSALA - " << (k+1) << endl;
+        cout << "---------------------------------------------------------------------" << endl;
+        cout << "            |";
+
+  			for (int t = 0; t < dias; t++)
+  			{
+          cout << "| DIA - " << (t+1) << " |";
+        }
+
+        cout << "|" << endl;
+          
+        for (int h = 0; h < horarios; h++)
 				{
-					for (int k = 0; k < salas; k++)
-					{
-						for (int h = 0; h < horarios; h++)
-						{
-							if(x[j][t][k][h].get(GRB_DoubleAttr_X) > 0) {							
-								cout << x[j][t][k][h].get(GRB_StringAttr_VarName) << " "
-									 << x[j][t][k][h].get(GRB_DoubleAttr_X) << endl;
-							}
-						}
-					}
+          cout << "---------------------------------------------------------------------" << endl;
+          cout << (h+1) << "º horário  |";
+          
+          for (int t = 0; t < dias; t++){
+          	empty = true;
+
+          	for (int j = 0; j < disciplinas; j++){
+          		
+          		if ( x[j][t][k][h].get(GRB_DoubleAttr_X) > 0 ){
+	              if (j < 9) 
+	              	cout << "|    " << (j+1) << "    |";
+	              else 
+	              	cout << "|   " << (j+1) << "    |";
+	              
+	              empty = false;
+	              break;
+	            }
+          	}
+
+          	if(empty) cout << "|         |";           
+          }
+
+          cout << "|" << endl;
 				}
+
+        cout << "---------------------------------------------------------------------" << endl;
+        cout << "\n" << endl;
 			}
 
+			cout << "SALAS USADAS: ";
 			for (int k = 0; k < salas; k++)
 			{
 				if(y[k].get(GRB_DoubleAttr_X) > 0){
-					cout << y[k].get(GRB_StringAttr_VarName) << " "
-						 << y[k].get(GRB_DoubleAttr_X) << endl;
+					cout << "[ "<< (k+1) << " ]";
 				}
 			}
+			cout << endl;
 
-			cout << "Obj: " << model.get(GRB_DoubleAttr_ObjVal) << endl;
+			cout << "\nValor da F.O: " << model.get(GRB_DoubleAttr_ObjVal) << "\n" << endl;
 		}
 		catch (GRBException e)
 		{
